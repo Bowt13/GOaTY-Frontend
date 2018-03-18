@@ -1,0 +1,49 @@
+.button{
+  border: 1rem solid white;
+}
+.button-container{
+  margin-top: 1.9rem;
+  margin-left: 1.9rem;
+}
+.offence{
+  height: 6rem;
+  width: 21rem;
+  background-color: red;
+  font-size: 4rem;
+  color: white;
+}
+
+.physical{
+  height: 6rem;
+  width: 21rem;
+  background-color: red;
+  font-size: 4rem;
+  color: white;
+}
+
+.spell{
+  margin-left: 3.9rem;
+  height: 6rem;
+  width: 21rem;
+  background-color: blue;
+  font-size: 4rem;
+  color: white;
+}
+
+.defence{
+  margin-left: 3.9rem;
+  height: 6rem;
+  width: 21rem;
+  background-color: blue;
+  font-size: 4rem;
+  color: white;
+}
+
+.back{
+  margin-left: 3.9rem;
+  height: 6rem;
+  width: 10rem;
+  background-color: pink;
+  font-size: 4rem;
+  color: white;
+}
